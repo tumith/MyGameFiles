@@ -1,6 +1,6 @@
 # MyGameFiles
 _________________________
-### Höfundur:
+### Höfundur :
 #### Tumi Thorberg Jónsson
 _________________________
 ### Skóli :

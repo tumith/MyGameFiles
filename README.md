@@ -3,5 +3,5 @@ _________________________
 ### Höfundur:
 #### Tumi Thorberg Jónsson
 _________________________
-### Skóli
+### Skóli :
 #### UpplisingarTækniskólin
